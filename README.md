@@ -63,4 +63,12 @@ Created two interactive dashboards:
 - Refunds by product category
 - Monthly refund trends
 
+## Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
+### Products & Returns Dashboard
+![Products and Returns Dashboard](Products_Returns_Dashboard.png)
+
 #DataAnalytics #Excel #PowerQuery #PowerPivot #DAX #DataModeling #Dashboard #EcommerceAnalytics #DataVisualization #PortfolioProject
